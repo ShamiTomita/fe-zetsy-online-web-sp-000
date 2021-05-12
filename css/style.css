@@ -71,7 +71,7 @@ body #featured a:hover {
 }
 
 footer {
-  align-content: right;
+  align-content: flex-end;
 	text-align: right;
 	background: #fff;
 	font-size: 0.8em;
