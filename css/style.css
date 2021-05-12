@@ -48,6 +48,11 @@ p {
 	padding: 1px;
 }
 
+body #featured a:hover {
+	text-decoration: underline;
+	cursor: auto;
+}
+
 #press {
     margin-bottom: 20px;
 }
