@@ -9,6 +9,9 @@ h1{
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
+a{
+  background: transparent
+}
 /*////////// Global Styles //////////*/
 
 body {
